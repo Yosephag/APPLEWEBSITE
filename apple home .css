@@ -1,0 +1,156 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+    img{
+        max-width: 100%;
+    }
+}
+.outer-wrapper{
+    position: fixed;
+}
+.header-wrapper {
+    background:whitesmoke;
+   color: black;
+    font-weight: 200;
+    font-size: 0.75em;
+}
+.header-wrapper  ul {
+    display: flex;
+    -webkit-box-pack: justify;
+   justify-content: space-between;
+}
+.internal-wrapper {
+    width: 980px;
+    padding: 0 130px;
+    margin: 0 auto;
+     
+}
+.header-wrapper .header-link-wrapper ul li a {
+    text-decoration: none;
+  color: black;
+}
+.header-wrapper ul {
+    list-style: none;
+}
+.header-wrapper .header-link-wrapper ul li {
+    display: inline-block;
+    padding: 14px 0 8px;
+    height: 25px;
+    opacity: 0.8;
+
+}
+.header-wrapper, .header-link-wrapper ul li :hover{
+    opacity: 1;
+    
+}
+.logo-link, .search-link, .cart-link{
+    width: 18px;
+    display: block;
+    color: black;
+    
+}
+.header-wrapper .header-link-wrapper  ul li .logo-link {
+    padding: 12px 0 10px;
+}
+.header-wrapper .header-link-wrapper ul li .search-link {
+    padding: 14px 0 8px;
+}
+.header-wrapper .header-link-wrapper ul li .cart-link {
+    padding: 12px 0 10px;
+}
+.footer-wrapper{
+    background-color: whitesmoke;
+    font-size: 0.80em;
+    
+
+}
+.footer-wrapper{
+    padding: 70px 130px 0;
+    list-style: none;
+}
+.upper-class-txet-contener{
+   border-bottom: 1px  ; 
+   padding: 1px 0 20px;
+   color: #868686;
+}
+.upper-class-txet-contener p a{
+    color: black;
+    opacity: 0.7;
+}
+.link {
+    display: flex;
+    opacity: 0.8;
+}
+.link-wrapper-12-13 ul{
+    display: flex;
+}
+.footer-link-wrapper{
+    background-color:whitesmoke ;
+    -webkit-box-pack: justify;
+    justify-content: center;
+    
+   
+}
+.link ul{
+    list-style: none;
+    padding: 5px 0;
+    font-size: 0.9;
+}
+.link a{
+    color: #868686;
+    text-decoration: none;
+
+}
+.link-wrapper-13 ul{
+   list-style: none;
+    text-decoration: none;
+}
+.wrapper{
+padding-left: 80px;
+}
+.link-wrapper-12{
+    opacity: 0.7;
+    padding: 20px;
+}
+.link-wrapper-13  ul {
+  color: #868686;
+  list-style: none;
+
+}
+.link-wrapper-13  ul li a{
+    text-decoration: none;
+    list-style: none;
+
+
+}
+.deziba ul{
+    padding: 20px o 60px 0;
+    text-decoration: none;
+    list-style: none;
+
+}
+.deziba ul{
+    padding-left: 20px;
+    color: black;
+   
+   
+}
+.deziba ul a{
+    list-style: none;
+    color: black; 
+    
+}
+.deziba ul a{
+    word-spacing: 40px;
+    text-decoration: none;
+}
+.United{
+    padding-left: 100px;
+    
+}
+
+.deziba {
+    margin-bottom: 30px;
+}
