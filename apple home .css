@@ -6,10 +6,8 @@
     img{
         max-width: 100%;
     }
-}
-.outer-wrapper{
-    position: fixed;
-}
+
+
 .header-wrapper {
     background:whitesmoke;
    color: black;
